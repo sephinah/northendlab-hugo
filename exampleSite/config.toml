@@ -48,7 +48,7 @@ title = "Educcentral Philippines"
 [params.cta.button]
 enable = true
 label = "Visit Here"
-link = "https://gethugothemes.com/shop/"
+link = "https://educcentralph.ml/"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
