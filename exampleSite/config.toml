@@ -1,10 +1,10 @@
 baseURL = "https://oedph.netlify.app"
-disqusShortname = ""
+disqusShortname = "seth"
 languageCode = "en-us"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
-title = "Northendlab | Blog Template"
+title = "Educcentral Philippines | Online Education"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
@@ -24,9 +24,9 @@ weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
-author = "Themefisher"
+author = "Educcentral Philippines"
 contact_form_action = "#"
-copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+copyright = "&copy; 2020 [Educcentral Philippines](https://educcentralph.ml) All Rights Reserved"
 description = "This is meta description"
 google_analitycs_id = ""
 google_tag_manager = ""
@@ -35,12 +35,12 @@ logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Hi, Welcome to Educcentral Philippines where we bring you free education. <br> We bring Education For All (EFA)"
 [params.cta]
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+description = "Educcentral Philippines. Bringing Education For All (EFA)"
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
+title = "Educcentral Philippines"
 [params.cta.button]
 enable = true
 label = "Visit Here"
