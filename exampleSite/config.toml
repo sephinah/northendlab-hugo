@@ -4,7 +4,11 @@ languageCode = "en-us"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
+<<<<<<< HEAD
 title = "Educcentral Philippines | Online Education"
+=======
+title = "Educcentral Philippines Online Education"
+>>>>>>> 35b0560cdd6eb3597ca01ea813508ddf5b3004d9
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
