@@ -53,3 +53,5 @@ Together with my various academic teams, we will bring as good knowledge as much
 > Help me to go further, through donating with your act of kindness.
 >
 > [I support Educcentral Philippines!](https://www.gofundme.com/f/educcentral-philippines-go-fund-me?teamInvite=o7qFM70nK7Qxzl5laZczb3HkFe6t3zgfq2rwCpoPS9sJd4x3GtANnrLL7k8ka58M "Donate Now")
+>
+> A Quality and FREE for All Education
