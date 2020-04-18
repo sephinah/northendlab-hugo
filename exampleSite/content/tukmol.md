@@ -1,7 +1,7 @@
 +++
 author = "Seth"
 categories = ["General"]
-date = ""
+date = 2020-04-17T16:00:00Z
 description = "Educcentral Philippines"
 image = "/images/educcentralph wallpaper.png"
 title = "Welcome to Educcentral Philippines"
