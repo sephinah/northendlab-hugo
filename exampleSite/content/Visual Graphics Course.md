@@ -11,3 +11,7 @@ type = "post"
 Are you a professional wanting to add more 21st century skills related to visual graphics?  Here in Educcentral Philippines you can have it for FREE video materials and get certified by our certification partner institutions.
 
 Let's begin and get started learning! With Educcentral Philippines we want you to grow!
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/T2D8EIh9Gus](https://www.youtube.com/embed/T2D8EIh9Gus "https://www.youtube.com/embed/T2D8EIh9Gus")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<button>pogi</button>
