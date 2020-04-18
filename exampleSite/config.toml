@@ -35,7 +35,7 @@ logo = "images/educcentralph-logo.png"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Hi. Welcome to Educcentral Philippines. <br> <p>Together, let us bring Education for All.</p>"
+title = "Hi. Welcome to Educcentral Philippines."
 [params.cta]
 description = "Support us by purchasing items in our shop!"
 enable = true
