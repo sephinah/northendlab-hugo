@@ -37,10 +37,10 @@ bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
 title = "Hi. Welcome to Educcentral Philippines. <br> <p>Together, let us bring Education for All.</p>"
 [params.cta]
-description = "Support us in our mission and goals!"
+description = "Support us by purchasing items in our shop!"
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Visit our site"
+title = "Support us and visit our shop!"
 [params.cta.button]
 enable = true
 label = "Visit Here"
