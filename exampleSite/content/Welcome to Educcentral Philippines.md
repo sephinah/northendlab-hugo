@@ -1,5 +1,5 @@
 +++
-author = "Seth"
+author = "John Doe"
 categories = ["General"]
 date = 2020-04-17T16:00:00Z
 description = "Educcentral Philippines"
